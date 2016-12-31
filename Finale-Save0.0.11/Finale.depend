@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1427373070 source:d:\codeblock\finale\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"vars&const.h"
+	"Functions.cpp"
+	"Listchaine.cpp"
+	<time.h>
+
+1427634478 d:\codeblock\finale\vars&const.h
+
+1427364756 d:\codeblock\finale\functions.cpp
+
+1427365544 d:\codeblock\finale\listchaine.cpp
+
+1427640250 source:d:\codeblock\finale\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"vars&const.h"
+	"Functions.c"
+	"Listchaine.c"
+	"K-Medoids.c"
+	<time.h>
+
+1427641209 d:\codeblock\finale\functions.c
+
+1427554615 d:\codeblock\finale\listchaine.c
+
+1427661209 d:\codeblock\finale\k-medoids.c
+	<math.h>
+	<conio.h>
+	<process.h>
+
+1427640250 source:g:\projets\projet -c k-medoids\finale-save0.0.11\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"vars&const.h"
+	"Functions.c"
+	"Listchaine.c"
+	"K-Medoids.c"
+	<time.h>
+
+1431000424 g:\projets\projet -c k-medoids\finale-save0.0.11\vars&const.h
+
+1431001191 g:\projets\projet -c k-medoids\finale-save0.0.11\functions.c
+
+1427554615 g:\projets\projet -c k-medoids\finale-save0.0.11\listchaine.c
+
+1427969437 g:\projets\projet -c k-medoids\finale-save0.0.11\k-medoids.c
+	<math.h>
+	<conio.h>
+	<process.h>
+
